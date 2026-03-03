@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# DeepFace models
+.deepface/
+
+# Uploaded images
+uploads/
+
+# Sorted albums
+albums/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+temp_face.jpg
